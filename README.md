@@ -1,2 +1,2 @@
-# Learning-scala
+# LearningScala
 Learning scala
